@@ -40,7 +40,7 @@ An RP2350 Button driver written entirely in Assembler.
 
 <br>
 
-main.s Code
+# main.s Code
 ```
 /**
  * FILE: main.s
