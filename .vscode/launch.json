@@ -21,9 +21,6 @@
         "-c",
         "adapter speed 5000"
       ],
-      "postAttachCommands": [
-        "set mem inaccessible-by-default off"
-      ],
       "postRestartCommands": [
         "break main",
         "continue"
