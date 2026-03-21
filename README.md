@@ -6,7 +6,7 @@
 <br>
 
 # RP2350 Button Driver
-An RP2350 Button driver written entirely in Assembler.
+An RP2350 Button driver written entirely in ARM Assembler.
 
 <br>
 
